@@ -1,4 +1,4 @@
 payload:
   # > Cloudflare ZeroTrust VPN Remote
-  #- DOMAIN,update.argotunnel.com
-  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN,update.argotunnel.com
+  #- DOMAIN-SUFFIX,argotunnel.com
