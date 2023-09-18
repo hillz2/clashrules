@@ -2,5 +2,4 @@ payload:
   - DOMAIN,ds.seaprod.msgamesea.com
   - DOMAIN,report.prod.msgamesea.com
   - DOMAIN,gs.sg.prod.msgamesea.com
- # - IP-CIDR,991.108.56.129
-  - DOMAIN,glcs.listdl.com
+  - DOMAIN-SUFFIX,listdl.com
